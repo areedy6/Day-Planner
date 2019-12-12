@@ -1,0 +1,32 @@
+.past {
+    background-color: grey;
+    color: white;
+  }
+  
+  .present {
+    background-color: red;
+    color: white;
+  }
+  
+  .future {
+    background-color: green;
+    color: white;
+  }
+  
+  body{
+    background-image: url("cork-board.png");
+
+  }
+
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+
+  #hour-17{
+    margin-bottom: 50px;
+
+  }
